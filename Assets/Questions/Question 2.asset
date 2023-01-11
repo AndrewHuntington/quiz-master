@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Which Transformer changes into a red big rig?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Ironhide
+  - Jazz
+  - Sideswipe
+  - Optimus Prime
+  correctAnswerIndex: 3

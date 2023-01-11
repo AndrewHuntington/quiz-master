@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Who kills Starscream during his coronation?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Megatron
+  - Galvatron
+  - Thundercracker
+  - Ramjet
+  correctAnswerIndex: 1

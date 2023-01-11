@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Which of these Transformers does not live inside Soundwave's chest?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Laserbeak
+  - Rumble
+  - Slugfest
+  - Eject
+  correctAnswerIndex: 3
